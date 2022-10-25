@@ -1,6 +1,6 @@
 # Ons eerste GIT enabled project
 
-## Dit is een leujke subtitel
+## Dit is een leuke subtitel
 
 En dit is een paragraaf. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus mattis tempus purus, vitae consectetur turpis condimentum id. Quisque hendrerit facilisis viverra. Pellentesque ut euismod neque. Sed scelerisque fermentum scelerisque. Pellentesque vel luctus orci. Praesent viverra eget risus sodales laoreet. Etiam quis tristique nisl, a pharetra erat. Aenean lorem purus, dapibus.
 
